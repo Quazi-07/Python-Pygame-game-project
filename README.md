@@ -74,9 +74,7 @@ python main.py
 
 ## 📸 Screenshot
 
-```markdown
 ![Game Screenshot](screenshot.png)
-```
 
 ## 📌 Future Improvements
 
