@@ -74,7 +74,10 @@ python main.py
 
 ## 📸 Screenshot
 
-![Game Screenshot](screenshot.png)
+### Main Start Screen
+![Game Start Screenshot](screenshot.png)
+### Main Game Screen
+![Main Game Screen](screenshot2.png)
 
 ## 📌 Future Improvements
 
